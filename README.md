@@ -1,11 +1,29 @@
-
 <!---
 Lesego-Shange/Lesego-Shange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+<!-- Profile Picture with Funky Photo Frame -->
+<div style="text-align: center;">
+  <div style="display: inline-block; position: relative;">
+    <!-- Funky photo frame -->
+    <img src="https://avatars.githubusercontent.com/u/156867214?s=96&v=4" alt="Profile Picture" style="border-radius: 50%; border: 8px solid #ffcc00; width: 200px; height: 200px;">
 
-Hello World! 👋 Welcome to my YouTube channel...I mean GitHub profile!
+<!-- Green rounded follow button -->
+![Follow](https://img.shields.io/badge/Follow-green?style=for-the-badge)
+
+<!-- Following and Followers Stats -->
+<div style="margin-top: 10px; margin-bottom: 20px;">
+  <span >Following: 6 </span>
+  <span style="margin-left: 20px;">Followers: 445 000</span>
+</div>
+
+  </div>
+</div>
+
+
+
+Hello World! 👋 Welcome to my GitHub profile!
 
 ## About Me
 
@@ -40,3 +58,5 @@ Let's collaborate! 😄
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesego-shange&size_weight=0.5&count_weight=0.5)
 ![](https://komarev.com/ghpvc/?username=lesego-shange)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lesego-shange)](https://git.io/streak-stats)
+
+
