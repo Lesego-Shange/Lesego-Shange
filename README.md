@@ -7,16 +7,7 @@ You can click the Preview link to take a look at your changes.
 <div style="text-align: center;">
   <div style="display: inline-block; position: relative;">
     <!-- Funky photo frame -->
-    <img src="https://avatars.githubusercontent.com/u/156867214?s=96&v=4" alt="Profile Picture" style="border-radius: 50%; border: 8px solid #ffcc00; width: 200px; height: 200px;">
-
-<!-- Green rounded follow button -->
-![Follow](https://img.shields.io/badge/Follow-green?style=for-the-badge)
-
-<!-- Following and Followers Stats -->
-<div style="margin-top: 10px; margin-bottom: 20px;">
-  <span >Following: 6 </span>
-  <span style="margin-left: 20px;">Followers: 445 000</span>
-</div>
+    <img src="https://media.licdn.com/dms/image/D5616AQGVABHn-FZ_rg/profile-displaybackgroundimage-shrink_350_1400/0/1709803475186?e=1715817600&v=beta&t=i_wx8DRydBEW75sQr_0JkJho1PTYyF2nmU674xfEA6I"       style="border-radius: 50%; border: 8px solid #ffcc00;">
 
   </div>
 </div>
@@ -50,13 +41,20 @@ Let's collaborate! 😄
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,javascript,html,css,python,cplusplus&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,php,javascript,html,css,python,cplusplus&theme=light" />
   </a>
 </p>
 
-[![Lesego's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesego-shange)](https://github.com/lesego-shange/github-readme-stats)
+
+## 📈 My Stats
+
+  [![Lesego's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesego-shange)](https://github.com/lesego-shange/github-readme-stats)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesego-shange&size_weight=0.5&count_weight=0.5)
 ![](https://komarev.com/ghpvc/?username=lesego-shange)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lesego-shange)](https://git.io/streak-stats)
 
 
