@@ -41,7 +41,7 @@ Let's collaborate! 😄
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,php,javascript,html,css,python,cplusplus&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,php,javascript,html,css,react,python,cplusplus&theme=light" />
   </a>
 </p>
 
