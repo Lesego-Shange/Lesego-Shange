@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <div style="text-align: center;">
   <div style="display: inline-block; position: relative;">
     <!-- Funky photo frame -->
-    <img src="https://media.licdn.com/dms/image/D5616AQGVABHn-FZ_rg/profile-displaybackgroundimage-shrink_350_1400/0/1709803475186?e=1715817600&v=beta&t=i_wx8DRydBEW75sQr_0JkJho1PTYyF2nmU674xfEA6I"       style="border-radius: 50%; border: 8px solid #ffcc00;">
+    <img src="https://media.licdn.com/dms/image/D5616AQGVABHn-FZ_rg/profile-displaybackgroundimage-shrink_350_1400/0/1709803475186?e=1721865600&v=beta&t=yAEyzsnGj2QPOcKZsMMCZYzTzAUvIf4XDrRibox0lmw"       style="border-radius: 50%; border: 8px solid #ffcc00;">
 
   </div>
 </div>
